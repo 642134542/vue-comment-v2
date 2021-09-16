@@ -1,4 +1,4 @@
-# kb
+# vue-comment-v2
 
 ## Project setup
 ```
