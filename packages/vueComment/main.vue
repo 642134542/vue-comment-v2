@@ -163,7 +163,6 @@ export default {
       size_picker_val: DEFAULT_BRUSH_WIDTH,
       show_picker_slider: false,
       init_state: { is_img: false, img_check: true, data: '' },
-
     };
   },
   created() {
