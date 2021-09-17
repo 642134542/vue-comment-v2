@@ -6,7 +6,7 @@
 
 ## 预览：
 
-https://642134542.github.io/vue-comment-v2/dist/
+[项目预览](https://642134542.github.io/vue-comment-v2/dist/)
 
 ## 特性：
 
