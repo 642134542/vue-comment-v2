@@ -17,7 +17,7 @@ export default {
     };
   },
   created() {
-    this.imgSrc = `http://192.168.0.27:8088/group1/2021/08/25/5wy9v1.jpg?${+new Date().getTime()}`;
+    this.imgSrc = require('./bizhi.jpg');
   },
   methods: {
     saveJson(data) {
