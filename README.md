@@ -4,6 +4,10 @@
 
 ![avatar](/dist/preview.png)
 
+## 预览：
+
+https://642134542.github.io/vue-comment-v2/dist/
+
 ## 特性：
 
 1、支持图片导出；
@@ -71,7 +75,7 @@ savePng(dataURL) {
 },
 ```
 
-#### savePng
+#### saveJson
 
 导出json数据
 
