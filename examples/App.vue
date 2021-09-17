@@ -17,7 +17,7 @@ export default {
     };
   },
   created() {
-    this.imgSrc = require('./bizhi.jpg');
+    this.imgSrc = require('./bizhi2.jpg');
   },
   methods: {
     saveJson(data) {
