@@ -1,5 +1,5 @@
 {
-  "name": "vue-comment-v3",
+  "name": "vue-comment-v2",
   "version": "0.1.4",
   "private": false,
   "main": "lib/vue-comment-v2.umd.min.js",

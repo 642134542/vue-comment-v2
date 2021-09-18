@@ -1,4 +1,4 @@
-# vue-comment-v2
+# [vue-comment-v2](https://github.com/642134542/vue-comment-v2)
 
 >  一个基于canvas的对图片进行批注功能的vue2.0组件
 
