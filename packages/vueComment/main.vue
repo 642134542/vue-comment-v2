@@ -15,7 +15,7 @@
       <div class="cd-draw-select">
         <div class="picker_item color_picker">
           <span class="picker_title">颜色:</span>
-          <el-color-picker title="选择颜色" v-model="color" size="mini" />
+          <el-color-picker title="选择颜色" v-model="color" :show-alpha="true" size="mini" />
         </div>
 
         <div class="picker_item size_picker">
